@@ -57,6 +57,6 @@ Look-ahead and look-behind are advanced techniques that let you match text based
 
 ## Author
 
-The Author of this Gist is Sam Brown. Please review the link below to view other codebases made by the author. Sam Brown's GitHub
+The Author of this Gist is Sam Brown. Please review the link below to view other codebases made by the author. https://github.com/samxbrown
 
 Feel free to expand on each section with more detailed explanations and examples as needed. Once you've prepared your tutorial, you can create a GitHub Gist as described in the previous response.
