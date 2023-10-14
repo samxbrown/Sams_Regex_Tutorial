@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Phone Number Gist Regex Tutorial
 
 Introductory paragraph (replace this with your text)
 
@@ -46,4 +46,4 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+The Author of this Gist is Sam Brown. Please review the link below to view other codebases made by the author. https://github.com/samxbrown
