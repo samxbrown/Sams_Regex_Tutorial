@@ -1,4 +1,4 @@
-# Sams_Regex_Tutorial
+# Gist Phone Number Regex Tutorial
 
 # Description
 This starter code contains a codebase for a Gist Tutorial to explain how to create a regex to clarify phone numbers.
@@ -22,9 +22,7 @@ Once you have the project set up locally, you can:
 * Add additional content, images, and styles as required.
 * Test the website for accessibility by ensuring it meets the acceptance criteria mentioned above.
 
-
-
-
+<img width="1440" alt="Screenshot 2023-10-14 at 4 20 14 PM" src="https://github.com/samxbrown/Sams_Regex_Tutorial/assets/135293566/0829f56c-bd35-4887-a5d9-cd617b8fa10f">
 
 # Credits
 N/A
